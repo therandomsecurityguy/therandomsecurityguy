@@ -1,8 +1,5 @@
 ### Howdy 👋
 
-<!--
-**therandomsecurityguy/therandomsecurityguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Projects that I started: [https://github.com/therandomsecurityguy](https://github.com/therandomsecurityguy)
 Research that I've worked on: [https://randomsecurity.dev/research/](https://randomsecurity.dev/research/)
 Blog: [https://randomsecurity.dev](https://randomsecurity.dev)
